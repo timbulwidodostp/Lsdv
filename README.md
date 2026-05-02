@@ -1,6 +1,8 @@
 # Lsdv
 Least square dummy variable model (LSDV) Use Lsdv (lsdv) With (In) R Software
 
+https://www.youtube.com/watch?v=nzzBJnm-8W8
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
